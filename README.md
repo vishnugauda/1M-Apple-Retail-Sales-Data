@@ -174,3 +174,15 @@ WHERE last_year_sale IS NOT NULL AND year <> EXTRACT(YEAR FROM CURRENT_DATE);
 ## Conclusion  
 
 This project is a **real-world SQL case study**, ideal for data professionals looking to strengthen SQL skills and work with large datasets. It demonstrates **data-driven decision-making** and query optimization for **business analytics**. 
+
+## Questions & Feedback
+
+If you have any questions or feedback, feel free to create an issue or reach out!
+
+---
+
+## Contact Me
+
+📄 **[Resume](https://drive.google.com/file/d/1GZkBRK0gQKa4CWe1vYpBWcU7lFyrpLgY/view?usp=sharing)**  
+📧 **[Email](mailto:vishnugauda51@gmail.com)**  
+📞 **Phone**: +91 97868 19699
